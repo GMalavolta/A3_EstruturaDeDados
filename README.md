@@ -6,7 +6,7 @@ Neste momemto temos a primeira entrega do trabalho A3 de estrutura de dados, nel
 Integrantes do grupos:
 
 Integrantes do grupo 6:
-Gabriely Camile - 821238953
-Guilherme Malavolta - 82328049
-Guilherme Magalhães - 319214926
+Gabriely Camile - 821238953 /
+Guilherme Malavolta - 82328049 / 
+Guilherme Magalhães - 319214926 /
 Nathan Siman Teixeira - 320126372
