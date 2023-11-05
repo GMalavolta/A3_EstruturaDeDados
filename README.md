@@ -1,7 +1,7 @@
 # A3_EstruturaDeDados
 Trabalho A3 - Análise de textos e criação dos grafos
 
-Neste momemto temos a primeira entrega do trabalho A3 de estrutura de dados, nela geramos um grafo identificando as palavras que mais se repetiram e correlacionando as mesmas através das arestas do grafo.
+Neste momemto temos a primeira entrega do trabalho A3 de estrutura de dados, nela geramos um grafo identificando as palavras que mais se repetiram e correlacionando as mesmas através das arestas do grafo, a grossura das arestas indica a relação que essas paçvaras tem, quanto mais grossa a aresta, maior é a relação.
 
 Integrantes do grupos:
 
