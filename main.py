@@ -20,7 +20,7 @@ def main():
     palavrasFiltradas = []
 
     diretorio = 'C:\\Users\\guilh\OneDrive\Área de Trabalho\Projeto faculdade_Estrutura de dados\BaseDadosResumos'
-
+    #É necessário alterar o diretório para o do seu computador
 
     nltk.download('stopwords')
     nltk.download('punkt')
