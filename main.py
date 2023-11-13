@@ -19,7 +19,8 @@ def main():
     corpoBow = []
     palavrasFiltradas = []
 
-    diretorio = 'C:\\Users\\natha\OneDrive\Área de Trabalho\BaseDadosResumos'
+    diretorio = 'C:\\Users\\guilh\OneDrive\Área de Trabalho\Projeto faculdade_Estrutura de dados\BaseDadosResumos'
+
 
     nltk.download('stopwords')
     nltk.download('punkt')
@@ -34,10 +35,6 @@ def main():
 
     dicionario = corpora.Dictionary(prePro)
     archive.corpoBags(dicionario, prePro, corpoBow)
-
-    # Modelo LDA
-    modeloLDA = gensim.models.LdaModel(corpoBow, num_topics=1, id2word=dicionario, passes=10)
-    archive.pegarTopicosLDA(topicos, modeloLDA)
 
     grafo = archive.criarGrafo(prePro, 50)
 
