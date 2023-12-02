@@ -111,7 +111,8 @@ def Grafo2_Autores():
 
 while True:
     # Exibindo o menu
-    print("\nMenu:")
+    print("\n------Menu------\n"
+          "Escolha uma opção:")
     print("1. Grafo de tópicos")
     print("2. Grafo de coautoria")
     print("4. Sair")
